@@ -33,6 +33,6 @@ This tool clearly highlights the cursor’s position, making its movement and cl
 
 ### Features
 
-■ Cursor Follow: Displays a circle or ring that follows the cursor’s movement.
-■ Mouse Click: An animation effect appears when clicking, emphasizing the click action.
-■ Mouse Mask: Focuses on the area around the cursor, dimming the rest of the screen to enhance the focus effect.
+■ Cursor Follow: Displays a circle or ring that follows the cursor’s movement.  
+■ Mouse Click: An animation effect appears when clicking, emphasizing the click action.  
+■ Mouse Mask: Focuses on the area around the cursor, dimming the rest of the screen to enhance the focus effect.  
