@@ -6,3 +6,4 @@ Changelog
 </a>
 
 ## [v1.0.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.0.0)
+
