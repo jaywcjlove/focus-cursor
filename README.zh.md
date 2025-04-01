@@ -25,11 +25,11 @@
 
 https://github.com/user-attachments/assets/3f1a7950-e51f-4eb1-8df2-0b7e88f9471e?title=FocusCursor&rehype=video
 
-![FocusCursor 1](./assets/screenshots-1-cn.jpg)
+![FocusCursor 1](./assets/screenshots-1.jpg)
 
-![FocusCursor 2](./assets/screenshots-2-cn.jpg)
+![FocusCursor 2](./assets/screenshots-2.jpg)
 
-![FocusCursor 3](./assets/screenshots-3-cn.jpg)
+![FocusCursor 3](./assets/screenshots-3.jpg)
 
 这款工具能够清晰地突出显示光标的位置，让光标的移动和点击一目了然。它特别适用于会议、教学或视频教程制作等场合，帮助观众更轻松地跟随你的操作和思路，从而更好地吸引他们的注意力，提升信息的传递效果。
 
