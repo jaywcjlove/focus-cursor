@@ -14,7 +14,7 @@
   <p>
     <a href="./README.md">English</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/focus-cursor/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
-    <a href="https://github.com/jaywcjlove/focus-cursor/releases">变更日志</a>
+    <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/FocusCursor/6743495172" title="FocusCursor for macOS">
@@ -25,11 +25,13 @@
 
 https://github.com/user-attachments/assets/3f1a7950-e51f-4eb1-8df2-0b7e88f9471e?title=FocusCursor&rehype=video
 
-![FocusCursor 1](./assets/screenshots-1.jpg)
+![FocusCursor 0](./assets/screenshots-0.png)
 
-![FocusCursor 2](./assets/screenshots-2.jpg)
+![FocusCursor 1](./assets/screenshots-1.png)
 
-![FocusCursor 3](./assets/screenshots-3.jpg)
+![FocusCursor 2](./assets/screenshots-2.png)
+
+![FocusCursor 3](./assets/screenshots-3.png)
 
 这款工具能够清晰地突出显示光标的位置，让光标的移动和点击一目了然。它特别适用于会议、教学或视频教程制作等场合，帮助观众更轻松地跟随你的操作和思路，从而更好地吸引他们的注意力，提升信息的传递效果。
 

@@ -14,7 +14,7 @@
   <p>
     <a href="./README.zh.md">简体中文</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/focus-cursor/issues/new?template=bug_report.yml">Contact & Support</a> • 
-    <a href="https://github.com/jaywcjlove/focus-cursor/releases">Changelog</a>
+    <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/FocusCursor/6743495172" title="FocusCursor for macOS">
@@ -25,11 +25,13 @@
 
 https://github.com/user-attachments/assets/3f1a7950-e51f-4eb1-8df2-0b7e88f9471e?title=FocusCursor&rehype=video
 
-![FocusCursor 1](./assets/screenshots-1.jpg)
+![FocusCursor 0](./assets/screenshots-0.png)
 
-![FocusCursor 2](./assets/screenshots-2.jpg)
+![FocusCursor 1](./assets/screenshots-1.png)
 
-![FocusCursor 3](./assets/screenshots-3.jpg)
+![FocusCursor 2](./assets/screenshots-2.png)
+
+![FocusCursor 3](./assets/screenshots-3.png)
 
 This tool clearly highlights the cursor’s position, making its movement and clicks easily visible. It is particularly suitable for use in conferences, teaching, or video tutorial production, helping the audience follow your actions and ideas more easily, thereby attracting their attention and improving the effectiveness of information delivery.
 
