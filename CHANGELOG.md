@@ -10,6 +10,12 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.4.0)
+
+1. fix: Fix mouse position issue when using system menu or switching apps  
+2. feat: Add setting for line disappear duration  
+3. feat: Add setting to switch mouse highlight types
+
 ## [v1.3.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.3.0)
 
 1. feat: add screen line drawing and annotation feature

@@ -10,6 +10,12 @@
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.4.0)
+
+1. fix: 修复在系统菜单或应用切换时鼠标位置异常的问题  
+2. feat: 新增线条自动消失时间设置  
+3. feat: 新增鼠标高亮类型切换功能
+
 ## [v1.3.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.3.0)
 
 1. feat: 新增屏幕画线标记功能
