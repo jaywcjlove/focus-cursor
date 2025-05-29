@@ -23,7 +23,7 @@
   </p>
 </div>
 
-https://github.com/user-attachments/assets/cd667fd5-d062-4ca1-bf3c-03665fce383c?title=FocusCursor&rehype=video
+![FocusCursor 0](./assets/FocusCursor.gif)
 
 ![FocusCursor 0](./assets/screenshots-0.png)
 
