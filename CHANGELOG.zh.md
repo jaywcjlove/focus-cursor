@@ -10,6 +10,10 @@
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.5.0)
+
+1. fix: 修复鼠标右键拖拽问题
+
 ## [v1.4.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.4.0)
 
 1. fix: 修复在系统菜单或应用切换时鼠标位置异常的问题  
