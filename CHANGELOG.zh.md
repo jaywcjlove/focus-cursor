@@ -10,6 +10,10 @@
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.6.0)
+
+1. feat: 支持组合使用多个鼠标高亮效果
+
 ## [v1.5.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.5.0)
 
 1. fix: 修复鼠标右键拖拽问题

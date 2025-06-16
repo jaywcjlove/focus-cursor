@@ -10,6 +10,10 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.6.0)
+
+1. feat: support combining multiple mouse highlight effects
+
 ## [v1.5.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.5.0)
 
 1. fix: fix right-click drag issue.
