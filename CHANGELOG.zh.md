@@ -10,6 +10,11 @@
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.7.0)
+
+1. fix: resolve issue where parameter settings were not saved correctly.
+2. ui: add icons to settings to visually differentiate categories.
+
 ## [v1.6.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.6.0)
 
 1. feat: 支持组合使用多个鼠标高亮效果
