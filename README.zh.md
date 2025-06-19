@@ -25,7 +25,7 @@
 
 ![FocusCursor 0](./assets/focus-cursor.gif)
 
-![FocusCursor 0](./assets/FocusCursor.gif)
+![FocusCursor 0](./assets/focus-cursor2.gif)
 
 ![FocusCursor 0](./assets/screenshots-0.png)
 

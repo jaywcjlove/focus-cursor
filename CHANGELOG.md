@@ -10,6 +10,16 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.9.0)
+
+1. feat: add status bar menu for drawing board activation
+
+## [v1.8.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.0)
+
+1. feat: disable corresponding options based on status.
+2. refactor: refactor the settings user interface.
+3. ui: hide settings option when disabled.
+
 ## [v1.7.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.7.0)
 
 1. fix: resolve issue where parameter settings were not saved correctly.
