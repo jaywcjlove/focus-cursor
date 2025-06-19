@@ -10,12 +10,6 @@
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v1.9.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.9.0)
-
-1. feat: 新增根据状态禁用对应选项。
-2. refactor: 重构设置界面。
-3. ui: 禁用时隐藏设置选项。
-
 ## [v1.8.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.0)
 
 1. feat: 新增根据状态禁用对应选项。
