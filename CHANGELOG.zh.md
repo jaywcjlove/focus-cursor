@@ -11,7 +11,7 @@
 </a>
 
 ## [v1.8.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.0)
-
+ 
 1. feat: 新增根据状态禁用对应选项。
 2. refactor: 重构设置界面。
 3. ui: 禁用时隐藏设置选项。
