@@ -20,6 +20,8 @@
 2. refactor: 重构设置界面。
 3. ui: 禁用时隐藏设置选项。
 
+![screenshots-1](https://github.com/user-attachments/assets/691be392-d9f0-4168-9910-61543779876d)
+
 ## [v1.7.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.7.0)
 
 1. fix: resolve issue where parameter settings were not saved correctly.
