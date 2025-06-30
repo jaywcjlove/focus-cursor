@@ -20,8 +20,6 @@ Changelog
 2. refactor: refactor the settings user interface.
 3. ui: hide settings option when disabled.
 
-![screenshots-1](https://github.com/user-attachments/assets/691be392-d9f0-4168-9910-61543779876d)
-
 ## [v1.7.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.7.0)
 
 1. fix: resolve issue where parameter settings were not saved correctly.
