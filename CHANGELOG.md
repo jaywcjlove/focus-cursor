@@ -10,6 +10,10 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.1](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.1)
+
+1. fix: recalculate mouse position after screen configuration changes
+
 ## [v1.8.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.0)
 
 1. feat: disable corresponding options based on status.

@@ -10,6 +10,10 @@
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.1](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.1)
+
+1. fix: 修复屏幕配置更改后鼠标位置未重新计算的问题
+
 ## [v1.8.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.0)
  
 1. feat: 新增根据状态禁用对应选项。
