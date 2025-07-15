@@ -12,8 +12,8 @@
 
 ## [v1.8.2](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.2)
 
-1. ui: adjust settings screen layout
-2. feat: add German localization support.
+1. ui: 调整设置界面布局
+2. feat: 添加德语本地化支持
 
 ## [v1.8.1](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.1)
 
@@ -27,8 +27,8 @@
 
 ## [v1.7.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.7.0)
 
-1. fix: resolve issue where parameter settings were not saved correctly.
-2. ui: add icons to settings to visually differentiate categories.
+1. fix：修复参数设置无法正确保存的问题。
+2. ui：在设置中添加图标，用于直观地区分不同类别。
 
 ## [v1.6.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.6.0)
 
