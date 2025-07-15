@@ -10,6 +10,11 @@
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.2](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.2)
+
+1. ui: adjust settings screen layout
+2. feat: add German localization support.
+
 ## [v1.8.1](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.1)
 
 1. fix: 修复屏幕配置更改后鼠标位置未重新计算的问题
