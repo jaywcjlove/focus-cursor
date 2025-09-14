@@ -10,6 +10,13 @@
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.9.0)
+
+1. feat: 菜单栏新增绘制面板快捷设置按钮
+2. feat: 新增圆角半径设置
+3. feat: 新增步进器设置选项
+4. ui: 优化设置界面性能
+
 ## [v1.8.2](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.2)
 
 1. ui: 调整设置界面布局

@@ -10,6 +10,13 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.9.0)
+
+1. feat: add quick settings button for drawing panel in menu bar
+2. feat: add corner radius setting
+3. feat: add stepper setting option
+4. ui: improve settings performance
+
 ## [v1.8.2](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.8.2)
 
 1. ui: adjust settings screen layout
