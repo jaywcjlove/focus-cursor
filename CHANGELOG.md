@@ -10,6 +10,12 @@ Changelog
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.0.0)
+
+1. feat: add support for macOS 26.
+2. feat: add settings option to status bar
+3. feat: add status display in menu bar.
+
 ## [v1.9.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.9.0)
 
 1. feat: add quick settings button for drawing panel in menu bar

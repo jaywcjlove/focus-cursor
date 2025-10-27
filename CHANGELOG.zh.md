@@ -10,6 +10,12 @@
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.0.0)
+
+1. feat：新增对 macOS 26 的支持
+2. feat：状态栏新增设置选项
+3. feat：菜单栏新增状态显示
+
 ## [v1.9.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v1.9.0)
 
 1. feat: 菜单栏新增绘制面板快捷设置按钮
