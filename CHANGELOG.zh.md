@@ -10,6 +10,11 @@
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.1](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.0.1)
+
+1. fix: 修复启用绘图板状态显示问题
+2. fix: 修复显示桌面时光标高亮失效
+
 ## [v2.0.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.0.0)
 
 1. feat：新增对 macOS 26 的支持

@@ -10,6 +10,11 @@ Changelog
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.1](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.0.1)
+
+1. fix: cursor highlight broken when showing desktop
+2. fix: correct the status display issue of the drawing board
+
 ## [v2.0.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.0.0)
 
 1. feat: add support for macOS 26.
