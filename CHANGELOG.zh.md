@@ -10,6 +10,13 @@
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.1.0)
+
+1. feat: 添加绘图板工具。
+2. fix: 修复拖拽抖动导致无法绘制的问题。
+3. perf: 优化鼠标跟随性能。
+4. perf: 改善鼠标移动性能。
+
 ## [v2.0.1](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.0.1)
 
 1. fix: 修复启用绘图板状态显示问题

@@ -10,6 +10,13 @@ Changelog
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.1.0)
+
+1. feat: add drawing board tool.
+2. fix: fix the issue where dragging jitter prevents drawing.
+3. perf: optimize mouse follow performance.
+4. perf: improve mouse movement performance.
+
 ## [v2.0.1](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.0.1)
 
 1. fix: cursor highlight broken when showing desktop
