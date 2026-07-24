@@ -10,6 +10,17 @@ Changelog
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.0.0)
+
+1. feat: allow SF Symbols as custom follow particle images. 
+2. feat: add de/fr/it/ja/ko/ru language. 
+3. feat: add cursor-follow center X/Y offset. 
+4. feat: expand click and CAEmitter cursor-follow particle effects. 
+5. feat: replace Drawing Board with ScapDrawingKit. 
+6. feat: show number when adjusting line size. 
+7. feat: show numeric value for stroke size setting. 
+8. fix: keep cursor follow above menus and smooth during tracking. 
+
 ## [v2.1.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.1.0)
 
 1. feat: add drawing board tool.

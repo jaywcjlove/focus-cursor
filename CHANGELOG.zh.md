@@ -10,6 +10,17 @@
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.0.0)
+
+1. 新增：支持使用 SF Symbols 作为自定义跟随粒子图像。
+2. 新增：添加德语、法语、意大利语、日语、韩语、俄语语言支持。
+3. 新增：支持调整光标跟随效果的中心 X/Y 偏移。
+4. 新增：扩展点击和 CAEmitter 光标跟随粒子效果。
+5. 新增：使用 ScapDrawingKit 替换绘图板功能。
+6. 新增：调整线条大小时显示数值。
+7. 新增：在线条粗细设置中显示具体数值。
+8. 修复：保持光标跟随效果显示在菜单上方，并优化跟踪时的流畅度。
+
 ## [v2.1.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v2.1.0)
 
 1. feat: 添加绘图板工具。
