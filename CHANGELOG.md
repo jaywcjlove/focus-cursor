@@ -10,6 +10,13 @@ Changelog
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.1.0)
+
+1. feat: store independent settings per mouse-follow effect. 
+2. feat: restore v2.0 circle shape follow and refine mask overlay. 
+3. feat: raise mouse-follow preset intensity slider ranges. 
+4. fix: stop Drawing Board toolbar teleporting on macOS 26.6. 
+
 ## [v3.0.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.0.0)
 
 1. feat: allow SF Symbols as custom follow particle images. 

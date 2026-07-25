@@ -10,6 +10,13 @@
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.1.0)
+
+1. 新增：为每个鼠标跟随效果保存独立设置。
+2. 新增：恢复 v2.0 圆形跟随效果，并优化遮罩覆盖层。
+3. 新增：提高鼠标跟随预设的强度滑块范围。
+4. 修复：解决 macOS 26.6 下绘图板工具栏异常跳动的问题。
+
 ## [v3.0.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.0.0)
 
 1. 新增：支持使用 SF Symbols 作为自定义跟随粒子图像。
