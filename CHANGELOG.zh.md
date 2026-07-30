@@ -10,6 +10,12 @@
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.2.0)
+
+1. 修复：在 macOS 27+ 中补充显示 MoreAppsCommandMenus 图标。
+2. 修复：在 macOS 27+ 中显式显示 NSMenuItem 的符号图像。
+3. 新增：提高跟随效果强度滑块上限，并升级 ScapDrawingKit。
+
 ## [v3.1.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.1.0)
 
 1. 新增：为每个鼠标跟随效果保存独立设置。

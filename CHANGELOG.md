@@ -10,6 +10,12 @@ Changelog
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.2.0)
+
+1. fix: backfill MoreAppsCommandMenus icons on macOS 27+.
+2. fix: explicitly show NSMenuItem symbol images on macOS 27+.
+3. feat: raise follow intensity slider caps and bump ScapDrawingKit
+
 ## [v3.1.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.1.0)
 
 1. feat: store independent settings per mouse-follow effect. 
