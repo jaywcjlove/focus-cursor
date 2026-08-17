@@ -5,6 +5,6 @@ https://wangchujiang.com/focus-cursor/privacy-policy.zh.html
 https://wangchujiang.com/focus-cursor/terms-of-service.html
 https://wangchujiang.com/focus-cursor/terms-of-service.zh.html
 https://wangchujiang.com/focus-cursor/index.html
-https://wangchujiang.com/focus-cursor/index.zh.html
 https://wangchujiang.com/focus-cursor/CHANGELOG.html
+https://wangchujiang.com/focus-cursor/index.zh.html
 https://wangchujiang.com/focus-cursor/CHANGELOG.zh.html
