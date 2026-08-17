@@ -10,6 +10,12 @@
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.3.0)
+
+1. feat: 添加马克笔工具
+2. fix: 绘画模式拖动参数滑块时工具栏跟随移动
+3. fix: 在 macOS 27+ 上正常显示 NSMenuItem 符号图标
+
 ## [v3.2.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.2.0)
 
 1. 修复：在 macOS 27+ 中补充显示 MoreAppsCommandMenus 图标。

@@ -10,6 +10,12 @@ Changelog
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.3.0)
+
+1. feat: add marker pen tool.
+2. fix: toolbar moves when dragging parameter slider in drawing mode.
+3. fix: explicitly show NSMenuItem symbol images on macOS 27+.
+
 ## [v3.2.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.2.0)
 
 1. fix: backfill MoreAppsCommandMenus icons on macOS 27+.

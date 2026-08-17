@@ -60,7 +60,7 @@ jobs:
             - <meta property="twitter:card" content="summary_large_image">
             - <meta property="twitter:title" content="<%= site %> - <%= description%>">
             - <meta property="twitter:description" content="<%= description%>">
-            - <meta name="apple-itunes-app" content="app-id=6670696072">
+            - <meta name="apple-itunes-app" content="app-id=6743495172">
           menus:
             Home: index.html
             Apps: https://wangchujiang.com/#/app
