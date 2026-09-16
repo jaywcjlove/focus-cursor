@@ -10,10 +10,16 @@
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.4.1](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.4.1)
+
+1. fix: 修复截图选区模式无法选中画笔标注
+2. fix: 修复菜单栏按钮图标出现时抖动问题
+3. fix: 优化菜单栏按钮图标首次渲染闪烁问题
+
 ## [v3.4.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.4.0)
 
-1. feat: update app icon
-2. perf: optimize resource usage
+1. feat: 更新应用图标
+2. perf: 优化资源占用
 
 ## [v3.3.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.3.0)
 
