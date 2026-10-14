@@ -10,6 +10,11 @@ Changelog
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.5.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.5.0)
+
+1. feat: Support color filling for new drawing outfits.
+2. style: Update about page.
+
 ## [v3.4.1](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.4.1)
 
 1. fix: cannot select brush annotations in screenshot selection mode.

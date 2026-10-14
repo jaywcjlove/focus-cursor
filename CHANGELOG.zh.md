@@ -10,6 +10,11 @@
 <img alt="FocusCursor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.5.0](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.5.0)
+
+1. feat: 绘制新装支持颜色填充
+2. style: 更新关于页面
+
 ## [v3.4.1](https://github.com/jaywcjlove/focus-cursor/releases/tag/v3.4.1)
 
 1. fix: 修复截图选区模式无法选中画笔标注
